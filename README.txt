@@ -8,7 +8,7 @@ Reach a final score higher than the dealer without exceeding 21; or
 Let the dealer draw additional cards until their hand exceeds 21.
 Players are each dealt two cards initially.
 Project Description
-In order to make the the game we have used four different files
+There are four different files
 1)Cards.java
 2)Deck.java
 3)Player.java
@@ -52,9 +52,6 @@ This class also consists of the Main function where all other functions are call
 It offers the player options on whether he would like to continue playing or stand, and calls functions accordingly to proceed and exit the game finally.
 
 The class Blackjack has the main Function.
-
-The oops concepts that have been used are:
-Packages and collections.
 
 Note: Player,card and Deck are under a Package called BlackJack and the file BlackJack imports the package BlackJack.
 Note: All files also import the  package java.util.*.
